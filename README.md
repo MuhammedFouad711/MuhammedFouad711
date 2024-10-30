@@ -16,5 +16,5 @@ Data Analyst with 2 years of experience, specializing in Python, SQL, Excel, ,Po
 - 🔗 [View Project](https://github.com/username/data-cleaning-pipeline)
 
 ## 📫 Contact
-- **LinkedIn**: [LinkedIn Profile](https://WWW.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- **LinkedIn**: [LinkedIn Profile](https://WWW.linkedin.com/Muhammed F Musallam)
 - **Email**:MuhammedFMusallam00@gmail.com
